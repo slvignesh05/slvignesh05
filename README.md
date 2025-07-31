@@ -1,16 +1,18 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on : Security Tools, Random web apps,Blog and RCEs
+- 📫 How to reach me:slvignesh05
+- 😄 Pronouns: :He/him
+- ⚡ Fun fact: Triple Point:
+The triple point is a unique thermodynamic state where the solid, liquid, and gaseous phases of a substance coexist in equilibrium.
 
-**slvignesh05/slvignesh05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 S.Lakshmi Vignesh's GitHub Stats
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=slvignesh05&show_icons=true&theme=vue&count_private=true&hide_rank=false&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slvignesh05&layout=compact&theme=vue&hide_border=true" width="45%" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slvignesh05&theme=vue" />
+</p>
