@@ -12,7 +12,3 @@ The triple point is a unique thermodynamic state where the solid, liquid, and ga
   <img src="https://github-readme-stats.vercel.app/api?username=slvignesh05&show_icons=true&theme=vue&count_private=true&hide_rank=false&hide_border=true" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slvignesh05&layout=compact&theme=vue&hide_border=true" width="45%" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slvignesh05&theme=vue" />
-</p>
